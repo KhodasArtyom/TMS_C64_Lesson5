@@ -21,21 +21,7 @@ public class Massive {
                 System.out.println();
             }
             System.out.println("----------------");
-//            System.out.println("Введите  число, чтобы увеличить каждый элемент массива на это число:");
-//            int number = scanner.nextInt();
-//            for (int m = 0; m < multi.length; m++) {
-//                for (int n = 0; n < multi[m].length; n++) {
-//                    for (int p = 0; p < multi[m][n].length; p++) {
-//                        multi[m][n][p] = m + number;
-//                        System.out.print(+multi[m][n][p] + " ");
-//                    }
-//                }
-//
-//
-//            }
-//
-//
-//        }
+
 
         }
     }
